@@ -1,6 +1,8 @@
 ﻿//Shaun Aguirre-Reyes
 //10/17/22
 //2:21pm
+//Console will ask the user for their name and input what the user inputs while saying
+//"Good Afternoon (User Name)"
 
 Console.Clear();
 
